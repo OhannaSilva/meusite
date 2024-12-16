@@ -1,0 +1,120 @@
+body {
+	background-color: #cbf3f0;
+	justify-content: center;
+	align-items: center; 
+	margin: 0;
+	   	
+    	
+}
+
+
+.container{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+
+}
+
+.title {
+	margin: auto;
+	 	position: center;
+ 	top: 30%;
+ 	color: #FA9C00;
+	background-color: #ffffff;                                    
+  	text-align: center;
+  	width: 100vw;
+	
+	
+	
+	
+	
+ }
+
+.ze{
+	float: left;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display:inline;
+}
+
+.logotipo{
+	
+  	border: 15vw solid #2ec4b6;
+ 	position: relative;
+  	top: 80%;
+ 	width: 100%;
+  	text-align: center;
+	
+  	font-size: 18px;
+	background-color: #ffffff;
+	margin-bottom: 50px;
+}
+
+
+div {
+	width: 500px;
+  	
+
+}
+
+
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: relative; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: pink;
+}
+
+/* Main content */
+.main {
+  margin-top: 60px; /* Add a top margin to avoid content overlay */
+}
+
+.tex1{
+
+
+}
+
+.tex2{
+
+}
+
+.video {
+
+}
+
+
+.creditos {
+  background-color: #f76e11;
+  padding: 3px 0;                                          
+  text-align: center;
+  width: 100%;
+
+}
